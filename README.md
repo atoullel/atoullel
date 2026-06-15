@@ -46,5 +46,4 @@ I am a systems-focused engineer with a strong foundation in UNIX internals, TCP/
 ---
 
 ### :handshake: Connect with Me
-*   :briefcase: **LinkedIn:** [linkedin.com/in/your-profile](YOUR_LINK_HERE)
-*   :e_mail: **Email:** alexis.toullelan@outlook.com
+*   **Email:** alexis.toullelan@outlook.com

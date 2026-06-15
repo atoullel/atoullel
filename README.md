@@ -14,7 +14,7 @@ I am a systems-focused engineer with a strong foundation in UNIX internals, TCP/
 
 ---
 
-### :tools: Featured Systems & Networking Projects
+### 💻 Featured Systems & Networking Projects
 
 #### :whale: [Inception](https://github.com/atoullel/inception) — Infrastructure & Container Networking
 *   **The Mission:** Designed and deployed a multi-service, virtualized infrastructure environment completely isolated within custom Docker networks.
@@ -39,7 +39,7 @@ I am a systems-focused engineer with a strong foundation in UNIX internals, TCP/
 ---
 
 ### :telescope: Current Tech Focus & Self-Education
-*   :tools: Building a home-lab environment to gain hands-on experience deploying **WireGuard** and **IPSec VPN tunnels**.
+*   💻 Building a home-lab environment to gain hands-on experience deploying **WireGuard** and **IPSec VPN tunnels**.
 *   :robot: Exploring infrastructure-as-code and configuration management using **Ansible**.
 *   :cloud: Deepening knowledge of **AWS cloud networking architecture** (VPCs, Subnets, Gateways).
 

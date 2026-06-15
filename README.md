@@ -1,5 +1,5 @@
 # Hi, I'm Alexis Toullelan :wave: 
-### Linux, Network & Systems Engineering Intern | 42 Paris Alumnus
+### Linux, Network & Systems Engineering Intern | 42 Paris Student
 
 I am a systems-focused engineer with a strong foundation in UNIX internals, TCP/IP networking, and containerized environments. My background bridges low-level systems programming in C/C++ with modern network implementation, cloud concepts, and infrastructure automation. I enjoy dissecting protocols, optimizing backend architecture, and building secure, distributed environments.
 

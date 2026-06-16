@@ -1,7 +1,9 @@
-# Hi, I'm Alexis Toullelan :wave: 
-### Linux, Network & Systems Engineering Intern | 42 Paris Student
+# Hi, I'm Alexis Toullelan 👋 
+### Linux, Systems, Networks & Cloud Infrastructure Student | École 42 Paris
 
-I am a systems-focused engineer with a strong foundation in UNIX internals, TCP/IP networking, and containerized environments. My background bridges low-level systems programming in C/C++ with modern network implementation, cloud concepts, and infrastructure automation. I enjoy dissecting protocols, optimizing backend architecture, and building secure, distributed environments.
+I am a systems-focused Computer Science student currently seeking a 6-month technical internship. My background bridges academic computer networking principles from the University of Twente with hands-on, low-level UNIX systems development from École 42.
+
+I enjoy dissecting protocols, optimizing backend architecture, and building secure, distributed environments. I am deeply fascinated by system networks, containerized cloud environments, and edge infrastructure—and am looking further into deepening my knowledge about how these technologies enable complex distributed networks and space-tech data communications.
 
 ---
 

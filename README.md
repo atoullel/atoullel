@@ -9,43 +9,40 @@ I enjoy dissecting protocols, optimizing backend architecture, and building secu
 
 ### :globe_with_meridians: The Core Tech Stack
 
-*   **Networking & Security:** TCP/IP, POSIX Sockets, Layer 2/3 Routing Concepts, WebSockets, Infrastructure Security.
-*   **Cloud & Systems:** Linux/Unix Administration, Docker & Docker Compose, Virtualization, Environment Isolation, NGINX (Reverse Proxy/TLS).
-*   **Automation & Scripting:** Bash, Python, Makefiles, Git version control.
-*   **Systems Programming:** C, C++, SQL, Multi-threading, Process Management, Systems Calls.
-
+* **Networking & Protocols:** TCP/IP Suite, POSIX Sockets, Layer 2/3 Routing Concepts, Subnetting, Firewalls & NAT, WebSockets.
+* **Systems & Cloud Infrastructure:** Linux/Unix Administration, Docker & Docker Compose, Virtualization, Container Bridges, NGINX (Reverse Proxy, TLS), Process Management & System Calls.
+* **Systems Programming & Automation:** C, C++, Bash scripting, Makefiles, Git version control.
+* **Languages & Toolsets (Foundational / Notions):** Python, Java, SQL (PostgreSQL).
 ---
 
-### 💻 Featured Systems & Networking Projects
+## :computer: Featured Systems & Networking Projects
 
-#### :whale: [Inception](https://github.com/atoullel/inception) — Infrastructure & Container Networking
-*   **The Mission:** Designed and deployed a multi-service, virtualized infrastructure environment completely isolated within custom Docker networks.
-*   **The Tech:** Docker, NGINX (TLS/SSL), WordPress, MariaDB, Bash.
-*   **Key Focus:** Configured internal container bridges, managed network traffic routing via an NGINX reverse proxy, and secured inter-container communications.
+#### :open_file_folder: [Inception — Infrastructure & Container Networking](https://github.com/atoullel/inception)
+Designed and deployed a fully virtualized, multi-service infrastructure environment completely isolated within custom Docker networks. Configured secure internal container bridges, managed network traffic routing via an NGINX reverse proxy acting as a secure TLS gateway, and managed environment isolation using custom initialization Bash scripts.
+* **Tech Stack:** `Docker` • `Docker Compose` • `NGINX (TLS/SSL)` • `WordPress` • `MariaDB` • `Bash`
 
-#### :speech_balloon: [IRC Server](https://github.com/atoullel/irc) — Custom Network Protocol & Socket Programming
-*   **The Mission:** Developed a fully functional, high-concurrency Internet Relay Chat server from scratch in C++ compliant with RFC 1459.
-*   **The Tech:** C++, POSIX Sockets, Network Multiplexing (`epoll()`).
-*   **Key Focus:** Implemented non-blocking I/O multiplexing to handle multiple concurrent client connections, parsed raw TCP packets, and debugged low-level network states.
+#### :open_file_folder: [IRC Server — Custom Network Protocol & Socket Programming](https://github.com/atoullel/irc)
+Developed a robust, high-concurrency Internet Relay Chat server from scratch in C++ compliant with the RFC 1459 protocol. Implemented non-blocking POSIX TCP sockets alongside network I/O multiplexing (`poll`/`epoll`) to achieve asymmetric data streaming, safely parsing raw TCP packets and managing low-level network connection states for multiple concurrent clients.
+* **Tech Stack:** `C++` • `POSIX Sockets` • `Network Multiplexing` • `TCP/IP`
 
-#### :video_game: [ft_transcendence](https://github.com/atoullel/transcendence) — Real-Time Distributed Architecture
-*   **The Mission:** Engineered the backend microservice architecture for a multi-tenant web application featuring real-time data streaming.
-*   **The Tech:** NestJS, Next.js, Prisma ORM, PostgreSQL, WebSockets, Docker.
-*   **Key Focus:** Implemented the network layer connecting the frontend to the backend using low-latency WebSockets (`ws://`) and managed containerized database bridges.
+#### :open_file_folder: [ft_transcendence — Real-Time Distributed Architecture](https://github.com/atoullel/transcendence)
+Collaborated in a team environment to engineer a multi-tenant full-stack platform, managing the backend microservice architecture and distributed container lifecycle. Engineered secure containerized database bridges for asynchronous service-to-service communication, integrated the PostgreSQL data layers via Prisma ORM, and configured local staging environments to reliably host real-time bidirectional WebSocket traffic.
+* **Tech Stack:** `NestJS` • `Next.js` • `Prisma ORM` • `PostgreSQL` • `WebSockets` • `Docker` • `Network Bridges`
 
-#### :shell: [Minishell](https://github.com/atoullel/minishell) — UNIX Internals & Process Management
-*   **The Mission:** Co-authored a complete UNIX command-line interpreter in C.
-*   **The Tech:** C, UNIX System Calls (`fork`, `execve`, `dup2`, `pipe`).
-*   **Key Focus:** Mastered low-level inter-process communication (IPC) through multi-stage pipes, environment variable manipulation, and explicit I/O stream redirection.
+#### :open_file_folder: [Minishell — UNIX Internals & Process Management](https://github.com/atoullel/minishell)
+Co-authored a complete UNIX command-line interpreter in C, diving deep into operating system-level mechanics and process lifecycles. Mastered low-level inter-process communication (IPC) frameworks by configuring system data streams via multi-stage pipelines (`pipe`), handling system calls (`fork`, `execve`, `dup2`), and managing explicit input/output stream redirections.
+* **Tech Stack:** `C` • `UNIX System Calls` • `Process Management` • `Inter-Process Communication`
+
 
 ---
 
 ### :telescope: Current Tech Focus & Self-Education
-*   💻 Building a home-lab environment to gain hands-on experience deploying **WireGuard** and **IPSec VPN tunnels**.
-*   :robot: Exploring infrastructure-as-code and configuration management using **Ansible**.
-*   :cloud: Deepening knowledge of **AWS cloud networking architecture** (VPCs, Subnets, Gateways).
+*   🔹 Building a home-lab environment to gain hands-on experience deploying **WireGuard** and **IPSec VPN tunnels**.
+*   🔹 Exploring infrastructure-as-code and configuration management using **Ansible**.
+*   🔹 Deepening knowledge of **AWS cloud networking architecture** (VPCs, Subnets, Gateways).
 
 ---
 
 ### :handshake: Connect with Me
-*   **Email:** alexis.toullelan@outlook.com
+*   **Email:** altoulle@student.42.fr
+*   **Linkedin:** https://www.linkedin.com/in/alexis-toullelan-36a573151

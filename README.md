@@ -45,4 +45,4 @@ Co-authored a complete UNIX command-line interpreter in C, diving deep into oper
 
 ### :handshake: Connect with Me
 *   **Email:** altoulle@student.42.fr
-*   **Linkedin:** https://www.linkedin.com/in/alexis-toullelan-36a573151
+*   **Linkedin:** https://www.linkedin.com/in/alexis-toullelan

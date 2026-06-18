@@ -3,7 +3,7 @@
 
 I am a systems-focused Computer Science student currently seeking a 6-month technical internship. My background bridges academic computer networking principles from the University of Twente with hands-on, low-level UNIX systems development from École 42.
 
-I enjoy dissecting protocols, optimizing backend architecture, and building secure, distributed environments. I am deeply fascinated by system networks, containerized cloud environments, and edge infrastructure—and am looking further into deepening my knowledge about how these technologies enable complex distributed networks and space-tech data communications.
+I enjoy dissecting protocols, optimizing backend architecture, and building secure, distributed environments. I am deeply fascinated by system networks, containerized cloud environments, edge infrastructureand, and am looking further into deepening my knowledge about how these technologies enable complex distributed networks and space-tech data communications.
 
 ---
 
@@ -45,4 +45,3 @@ Co-authored a complete UNIX command-line interpreter in C, diving deep into oper
 
 ### :handshake: Connect with Me
 *   **Email:** altoulle@student.42.fr
-*   **Linkedin:** https://www.linkedin.com/in/alexis-toullelan

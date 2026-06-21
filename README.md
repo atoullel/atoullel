@@ -3,7 +3,7 @@
 
 I am a systems-focused Computer Science student currently seeking a 6-month technical internship. My background bridges academic computer networking principles from the University of Twente with hands-on, low-level UNIX systems development from École 42.
 
-I enjoy dissecting protocols, optimizing backend architecture, and building secure, distributed environments. I am deeply fascinated by system networks, containerized cloud environments, edge infrastructureand, and am looking further into deepening my knowledge about how these technologies enable complex distributed networks and space-tech data communications.
+I enjoy dissecting protocols, optimizing backend architecture, and building secure, distributed environments. I am deeply fascinated by system networks, containerized cloud environments, edge infrastructure and, and am looking further into deepening my knowledge about how these technologies enable complex distributed networks and space-tech data communications.
 
 ---
 
@@ -12,7 +12,7 @@ I enjoy dissecting protocols, optimizing backend architecture, and building secu
 * **Networking & Protocols:** TCP/IP Suite, POSIX Sockets, Layer 2/3 Routing Concepts, Subnetting, Firewalls & NAT, WebSockets.
 * **Systems & Cloud Infrastructure:** Linux/Unix Administration, Docker & Docker Compose, Virtualization, Container Bridges, NGINX (Reverse Proxy, TLS), Process Management & System Calls.
 * **Systems Programming & Automation:** C, C++, Bash scripting, Makefiles, Git version control.
-* **Languages & Toolsets (Foundational / Notions):** Python, Java, SQL (PostgreSQL).
+* **Languages & Toolsets (Foundational / Notions):** Python, Java, Typescript, SQL (PostgreSQL).
 ---
 
 ## :computer: Featured Systems & Networking Projects
